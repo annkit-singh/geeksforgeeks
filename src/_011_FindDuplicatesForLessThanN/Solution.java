@@ -1,6 +1,6 @@
 /**
- * Time : O() ; Space: O()
- * @tag : 
+ * Time : O(N) ; Space: O(1)
+ * @tag : Array
  * @by  : Steven Cooks
  * @date: Sep 14, 2015
  ***************************************************************************
@@ -18,8 +18,10 @@ package _011_FindDuplicatesForLessThanN;
 import java.util.ArrayList;
 import java.util.List;
 
+/** see test {@link _011_FindDuplicatesForLessThanN.SolutionTest } */
 public class Solution {
     
+    // label nums[number] as negative to denote we have seen number before
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new ArrayList<>();
         int n = nums.length;

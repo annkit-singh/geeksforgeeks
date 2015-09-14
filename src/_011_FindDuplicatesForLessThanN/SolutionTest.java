@@ -36,13 +36,13 @@ public class SolutionTest {
         List<Integer> expected = Arrays.asList(1, 3, 6);
         assertEqualsIgnoreOrder(expected, actual);
     }
-//
-//    @Test
-//    public void Test2() {
-//        int[] nums = { 1, 2, 3, 1, 3, 4, 6 };
-//        List<Integer> actual = solution.findDuplicates(nums);
-//        List<Integer> expected = Arrays.asList(1, 3);
-//        assertEqualsIgnoreOrder(expected, actual);
-//    }
+
+    @Test
+    public void Test2() {
+        int[] nums = { 1, 2, 3, 1, 3, 4, 6 };
+        List<Integer> actual = solution.findDuplicates(nums);
+        List<Integer> expected = Arrays.asList(1, 3);
+        assertEqualsIgnoreOrder(expected, actual);
+    }
 
 }
