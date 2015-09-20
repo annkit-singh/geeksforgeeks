@@ -1,6 +1,6 @@
 /**
  * Time : O(N) ; Space: O()
- * @tag : 
+ * @tag : Binary Tree
  * @by  : Steven Cooks
  * @date: Sep 10, 2015
  ***************************************************************************
@@ -15,14 +15,13 @@
  * empty, it contains no path, and its amplitude is treated as 0.
  * 
  * Input:
-         5
-       /   \
-    8        9
-   /  \     /  \ 
-12   2  8   4
-          /    /
-        2    5
- *
+ *        5
+ *      /   \
+ *    8      9
+ *  /  \    /  \ 
+ * 12   2  8    4
+ *        /    /
+ *       2    5
  * 
  ***************************************************************************
  * {@link http://www.geeksforgeeks.org/find-the-maximum-sum-path-in-a-binary-tree/ }
@@ -31,6 +30,7 @@ package _003_AmplitudeOfBinaryTree;
 
 import com.geeksforgeeks.TreeNode;
 
+/** see test {@link _003_AmplitudeOfBinaryTree.SolutionTest } */
 public class Solution {
     
     class ReturnType {
