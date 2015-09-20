@@ -6,7 +6,8 @@
 | ----| -------- | ---- | ---- |
 | 001 | [Top Down View Of Binary Search Tree](https://github.com/interviewcoder/geeksforgeeks/tree/master/src/_001_TopDownViewOfBST/Solution.java) | `BFS` | [readme](https://github.com/interviewcoder/geeksforgeeks/tree/master/src/_001_TopDownViewOfBST) |
 | 002 | [Connect N Ropes with Minimum Cost](https://github.com/interviewcoder/geeksforgeeks/blob/master/src/_002_ConnectRopes/Solution.java) | `Greedy` | [readme](https://github.com/interviewcoder/geeksforgeeks/blob/master/src/_002_ConnectRopes) |
-| 007 | [Divide Integer Without Multiply](https://github.com/interviewcoder/geeksforgeeks/blob/master/src/_007_DivideIntegerWithoutMultiply/Solution.java) | `Math``Bit Manipulation`| | 
+| 003 | [Amplitude of Binary Tree](https://github.com/interviewcoder/geeksforgeeks/tree/master/src/_003_AmplitudeOfBinaryTree) | `Binary Search` | |
+| 007 | [Divide Integer Without Multiply](https://github.com/interviewcoder/geeksforgeeks/blob/master/src/_007_DivideIntegerWithoutMultiply/Solution.java) | `Math` `Bit Manipulation`| | 
 | 008 | [Football Score](https://github.com/interviewcoder/geeksforgeeks/blob/master/src/_008_FootballScore/Solution.java) | `Backtracking` |  |
 | 009 | [Walking Range](https://github.com/interviewcoder/geeksforgeeks/tree/master/src/_009_WalkingRange) | `BFS` | |
 | 010 | [Word Break III](https://github.com/interviewcoder/geeksforgeeks/blob/master/src/_010_WordBreakIII/Solution.java) | `Dynamic Programming` |  |
